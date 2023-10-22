@@ -43,3 +43,9 @@ link para o repositório da biblioteca: <a href="https://github.com/jazzband/pre
 <p>O desafio consiste em criar uma estrutura de Lista simplesmente encadeada para salvar e manipular dados de paciente em um hospital, como o id do paciente, seu nome e seu estado de saúde</p>
 
 <p>Listas encadeadas são uma forma de estrutura de dados onde cada elemento de dado é representado por um nó, cada nó possui dois principais elementos, um para salvar os dados e outro para apontar para o próximo nó.</p>
+
+### Terceiro Dia - Lista Duplamente Encadeada
+
+<p>O desafio consiste em criar uma estrutura de Lista duplamente encadeada para salvar e manipular dados de produtos em estoque</p>
+
+<p>Listas encadeadas, são uma forma de estrutura onde cada um dos elementos além de possuir a informação e uma referência para o próximo nó, há também uma referência para o nó anterior.</p>

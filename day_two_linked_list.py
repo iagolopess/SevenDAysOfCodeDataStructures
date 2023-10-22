@@ -3,7 +3,7 @@
 
 class Paciente:
 
-    def __init__(self, id, nome, estado_de_saude) -> None:
+    def __init__(self, id, nome, estado_de_saude):
         self.id = id
         self.nome = nome
         self.estado_do_paciente = estado_de_saude
