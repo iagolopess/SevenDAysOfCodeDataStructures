@@ -1,6 +1,6 @@
 # #7DaysOfCode Estrutura de Dados
 
-Este projeto tem como propósito servir de objeto de estudo para criação de API usando NodeJS com Express e MongoDB
+Desafio de sete dias com o tema de estrutura de dados, criado pela escola de programação <a href="https://www.alura.com.br/">#Alura</a>.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -14,7 +14,15 @@ Este projeto tem como propósito servir de objeto de estudo para criação de AP
 
 ## Desafio de Estrutura de Dados da Alura 
 
-Desafio de sete dias com o tema de estrutura de dados, criado pela escola de programação <a href="https://www.alura.com.br/">#Alura</a>.
+O desafio #7DaysOfCode tem como premissa os estudos de algoritmos de Estrutura de Dados e suas aplicações baseadas em casos de possiveis aplicações reais. Neste desafio, por sete dias é enviado uma tarefa para ser executada de acordo com a estrutura de dados a ser utilizada, que são eles:
+
+- 1º Dia: Arrays
+- 2º Dia: Lista Simplesmente Encadeada
+- 3º Dia: Lista Duplamente Encadeada
+- 4º Dia: Fila
+- 5º Dia: Pilha
+- 6º Dia: Hashmaps
+- 7º Dia: Árvore binária
 
 ### Primeiro dia - Arrays
 
