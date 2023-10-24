@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from prettytable import PrettyTable
 
 
 class ListaDeCompras:
@@ -22,13 +21,10 @@ class ListaDeCompras:
             self.lista_de_compras[1].pop(index_item)
     
     def listar_item(self):
-        table = PrettyTable() 
-        table.field_names = ["Item", "Quantidade"]
-
+    
+        print("ITEM | QUANTIDADE")
         for item in range(len(self.lista_de_compras[0])):
-            table.add_row([self.lista_de_compras[0][item], self.lista_de_compras[1][item]])
-
-        return print(table)
+            print(f"{self.lista_de_compras[0][item]} | {self.lista_de_compras[1][item]}")
 
 
 lista_de_items = ["Macarrão", "Açúcar", "Arroz", "Feijão", "Frango"]
