@@ -49,3 +49,9 @@ link para o repositório da biblioteca: <a href="https://github.com/jazzband/pre
 <p>O desafio consiste em criar uma estrutura de Lista duplamente encadeada para salvar e manipular dados de produtos em estoque</p>
 
 <p>Listas encadeadas, são uma forma de estrutura onde cada um dos elementos além de possuir a informação e uma referência para o próximo nó, há também uma referência para o nó anterior.</p>
+
+### Quarto Dia - Fila
+
+<p>O desafio consiste em criar uma estrutura de fila de pedidos onde o primeiro pedido adicionado é o primeiro a ser removido da lista</p>
+
+<p>Uma fila é uma estrutura de dados linear que segue a política "Primeiro a entrar, primeiro a sair" (FIFO - First-In-First-Out). Isso significa que o primeiro elemento inserido na fila será o primeiro a ser removido.</p>
