@@ -54,3 +54,10 @@ Também optei por usar uma matriz para guardar os dados das duas listas em uma l
 <p>O desafio consiste em criar uma estrutura de pilha de livros onde o último a ser adicionado é o primeiro a sair</p>
 
 <p>Uma pilha é uma estrutura de dados linear que segue a política "último a entrar, primeiro a sair" (LIFO - Last-In-First-Out). Isso significa que o último elemento inserido na pilha será o primeiro a ser removido.</p>
+
+### Quinto Dia - Pilha
+
+<p>O desafio consiste em criar uma estrutura de hashmap, também conhecido como dicionário em Python, para listar jogadores e pontuação</p>
+
+<p>
+Um HashMap, também conhecido como dicionário em Python, é uma estrutura de dados que mapeia chaves para valores. Isso permite a recuperação eficiente de valores com base em uma chave específica. A ideia por trás de um HashMap é usar uma função de hash para converter uma chave em um índice em uma estrutura de dados (geralmente uma tabela) onde o valor associado à chave é armazenado. Isso proporciona acesso rápido e eficiente aos valores com base em suas chaves.</p>
