@@ -61,3 +61,10 @@ Também optei por usar uma matriz para guardar os dados das duas listas em uma l
 
 <p>
 Um HashMap, também conhecido como dicionário em Python, é uma estrutura de dados que mapeia chaves para valores. Isso permite a recuperação eficiente de valores com base em uma chave específica. A ideia por trás de um HashMap é usar uma função de hash para converter uma chave em um índice em uma estrutura de dados (geralmente uma tabela) onde o valor associado à chave é armazenado. Isso proporciona acesso rápido e eficiente aos valores com base em suas chaves.</p>
+
+### Sétimo Dia - Árvore Binária
+
+<p>O desafio consiste em criar uma estrutura de árvore binária, que irá guardar e buscar por determinado produto usando id como valor de busca</p>
+
+<p>
+ma árvore binária é uma estrutura de dados hierárquica composta por nós (ou vértices) que se conectam de forma que cada nó tenha no máximo dois filhos: um filho à esquerda e um filho à direita. O primeiro nó na árvore é chamado de nó raiz, e os nós que não têm filhos são chamados de folhas. Cada nó pai possui zero, um ou dois filhos.</p>
