@@ -48,3 +48,9 @@ Também optei por usar uma matriz para guardar os dados das duas listas em uma l
 <p>O desafio consiste em criar uma estrutura de fila de pedidos onde o primeiro pedido adicionado é o primeiro a ser removido da lista</p>
 
 <p>Uma fila é uma estrutura de dados linear que segue a política "Primeiro a entrar, primeiro a sair" (FIFO - First-In-First-Out). Isso significa que o primeiro elemento inserido na fila será o primeiro a ser removido.</p>
+
+### Quinto Dia - Pilha
+
+<p>O desafio consiste em criar uma estrutura de pilha de livros onde o último a ser adicionado é o primeiro a sair</p>
+
+<p>Uma pilha é uma estrutura de dados linear que segue a política "último a entrar, primeiro a sair" (LIFO - Last-In-First-Out). Isso significa que o último elemento inserido na pilha será o primeiro a ser removido.</p>
