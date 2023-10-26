@@ -55,7 +55,7 @@ Também optei por usar uma matriz para guardar os dados das duas listas em uma l
 
 <p>Uma pilha é uma estrutura de dados linear que segue a política "último a entrar, primeiro a sair" (LIFO - Last-In-First-Out). Isso significa que o último elemento inserido na pilha será o primeiro a ser removido.</p>
 
-### Quinto Dia - Pilha
+### Sexto Dia - Pilha
 
 <p>O desafio consiste em criar uma estrutura de hashmap, também conhecido como dicionário em Python, para listar jogadores e pontuação</p>
 
